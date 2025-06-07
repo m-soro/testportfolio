@@ -1,123 +1,47 @@
 ---
 layout: default
+title: Mark Soro - Data Science Portfolio
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Mark Soro
 
-[Link to another page](./another-page.html).
+Welcome! I am a data scientist passionate about turning data into actionable insights. I have experience in machine learning, data visualization, and statistical analysis. I am actively seeking opportunities in data science and analytics.
 
-There should be whitespace between paragraphs.
+---
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Featured Projects
 
-# Header 1
+### [Predicting Housing Prices](https://github.com/yourusername/housing-prices)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+A machine learning project using regression models to predict housing prices based on various features. Implemented data cleaning, feature engineering, and model evaluation.
 
-## Header 2
+### [Customer Segmentation Analysis](https://github.com/yourusername/customer-segmentation)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Applied clustering algorithms to segment customers for a retail business, enabling targeted marketing strategies and improved customer retention.
 
-### Header 3
+### [NLP Sentiment Analysis](https://github.com/yourusername/sentiment-analysis)
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+Built a sentiment analysis tool using Python and NLP libraries to classify customer reviews as positive or negative, providing valuable feedback for product improvement.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+---
 
-#### Header 4
+## Skills
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+- **Programming:** Python (pandas, scikit-learn, matplotlib), R (tidyverse, ggplot2), SQL
+- **Machine Learning:** Regression, Classification, Clustering, Model Evaluation
+- **Data Visualization:** matplotlib, seaborn, ggplot2
+- **Other:** Data Cleaning, Feature Engineering, Statistical Analysis
 
-##### Header 5
+---
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+## Resume
 
-###### Header 6
+[Download Resume (PDF)](/assets/resume.pdf)
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+---
 
-### There's a horizontal rule below this.
+## Contact
 
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+- **Email:** your.email@example.com
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
