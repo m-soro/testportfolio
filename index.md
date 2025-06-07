@@ -11,15 +11,15 @@ Welcome! I am a data scientist passionate about turning data into actionable ins
 
 ## Featured Projects
 
-### [Predicting Housing Prices](https://github.com/yourusername/housing-prices)
+### [Predicting Housing Prices](https://github.com/m-soro/testportfolio)
 
 A machine learning project using regression models to predict housing prices based on various features. Implemented data cleaning, feature engineering, and model evaluation.
 
-### [Customer Segmentation Analysis](https://github.com/yourusername/customer-segmentation)
+### [Customer Segmentation Analysis](https://github.com/m-soro/testportfolio)
 
 Applied clustering algorithms to segment customers for a retail business, enabling targeted marketing strategies and improved customer retention.
 
-### [NLP Sentiment Analysis](https://github.com/yourusername/sentiment-analysis)
+### [NLP Sentiment Analysis](https://github.com/m-soro/testportfolio)
 
 Built a sentiment analysis tool using Python and NLP libraries to classify customer reviews as positive or negative, providing valuable feedback for product improvement.
 
@@ -43,5 +43,5 @@ Built a sentiment analysis tool using Python and NLP libraries to classify custo
 ## Contact
 
 - **Email:** your.email@example.com
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/marksoro)
+- **GitHub:** [github.com/yourusername](https://github.com/m-soro)
